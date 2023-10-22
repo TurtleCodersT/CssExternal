@@ -1,0 +1,14 @@
+p {
+    color: rgb(86, 119, 147);
+}
+ol {
+    color: red;
+    outline-color: invert;
+}
+h1 {
+    color: rgb(42, 69, 165);
+    text-align: center;
+}
+ul {
+    color: darkgreen;
+}
